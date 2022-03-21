@@ -20,11 +20,11 @@ It will move up and down on your screen in range of 0 and 50% in 0.3s.
 
 If you have any questions else please call me:
 
--[Email 163](mailto:ztzylf12345@163.com)
+- [Email 163](mailto:ztzylf12345@163.com)
 
--[Email Gmail](mailto:ztzylf12345@gmail.com)
+- [Email Gmail](mailto:ztzylf12345@gmail.com)
 
--[Telegram](https://t.me/Bro-Xun)
+- [Telegram](https://t.me/Bro-Xun)
 
 ---
 [zh-CN edition](readme-zh.md)
